@@ -1,11 +1,9 @@
-Name - Email - Lecture section number
-Team Crush (Team 18)
-Tran Situ tsitu@usc.edu 30389
-Dana Thomas danathom@usc.edu 29909
-Jason Wang zhewenw@usc.edu 30303
-Ananth Venkateswaran anvenkat@usc.edu 29909
-Arad Margalit amargali@usc.edu 29909
-Willa Zhao willazha@usc.edu 30389
+Tran Situ 
+Dana Thomas 
+Jason Wang 
+Ananth Venkateswaran 
+Arad Margalit 
+Willa Zhao 
 
 How to Run MapScreen Application:
 ---------------------------------
